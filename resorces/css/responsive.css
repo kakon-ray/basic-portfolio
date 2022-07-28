@@ -1,0 +1,171 @@
+
+
+@media (max-width: 991.98px) {
+
+    
+    body{
+        width: fit-content;
+    }
+    .about-content{
+    margin-right: 17rem;
+        
+    }
+
+    .about-section img{
+        margin-top: 7%;
+        margin-left: 21%;
+        width: 40rem;
+        height: 50rem;
+    
+       
+        
+    }
+
+    .about-section p{
+        
+        margin-top: 0rem;
+       
+        
+      }
+
+      .about-content h3{
+          margin-left: 35%;
+          margin-top: 0;
+      }
+
+      .main-nav{
+        display: none;
+    }
+    .mobile-manue span{
+          display: block;
+          margin-right: 5%;
+          margin-top: 1%;
+          font-size:5rem;
+          
+      }
+     nav{
+         background-color: black;
+     }
+    
+
+}
+
+
+
+
+@media (max-width: 767.98px) {
+
+    body{
+        width: fit-content;
+    }
+    .about-content{
+        margin-right: 15%;
+        
+    }
+
+    .about-section img{
+        margin-top: 7%;
+        margin-left: 0;
+       
+        
+    }
+
+    .about-section p{
+        
+        margin-top: 0rem;
+       
+        
+      }
+
+      .about-content h3{
+          margin-left: 5%;
+          margin-top: 0;
+      }
+
+      .main-nav{
+        display: none;
+    }
+    .mobile-manue span{
+          display: block;
+          margin-right: 5%;
+          margin-top: 1%;
+          font-size:5rem;
+          
+      }
+     nav{
+         background-color: black;
+     }
+    
+     .portfolio-section img{
+        width: 25rem;
+        height: 17rem;
+    }
+
+}
+
+
+
+
+@media (max-width: 575.98px) { 
+
+    body{
+        width: fit-content;
+    }
+    .about-content{
+        margin-right: 2%;
+        
+    }
+
+    .about-section img{
+        margin-top: 7%;
+        margin-left: 7%;
+        width: 30rem;
+        height: 40rem;
+    }
+
+    .about-section p{
+        
+        margin-top: 0rem;
+       
+        
+      }
+
+      .about-content h3{
+          margin-left: 5%;
+          margin-top: 0;
+      }
+
+
+      .main-nav{
+        display: none;
+    }
+    .mobile-manue span{
+          display: block;
+          margin-right: 5%;
+          margin-top: 1%;
+          font-size:5rem;
+          
+      }
+     nav{
+         background-color: black;
+     }
+    
+     .portfolio-section img{
+        width: 20rem;
+        height: 13rem;
+    }
+}
+
+@media (max-width: 767.98px) {
+
+    .about-section img{
+        margin-left: 18%;
+    }
+
+
+    .about-content{
+        margin-right: 14%;
+        
+    }
+
+}
